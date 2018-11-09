@@ -1,7 +1,7 @@
 uuid: 79a77320-37d2-418a-a543-21ccab9e5e4a
 name: pantheon-composer-test
 mail: sean.schoolcraft@gmail.com
-slogan: ''
+slogan: 'First shot at Composer CI-CD D8 Site on Pantheon!'
 page:
   403: ''
   404: ''
